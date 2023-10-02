@@ -16,7 +16,7 @@ body {
 
 header {
     overflow: hidden;
-    background-color: #fff;
+    background-color: #015798;
     position: fixed;
     width: 100%;
     top: 0;
@@ -54,7 +54,7 @@ header {
 }
 
 .navbar .logo h2 {
-    color: #015798;
+    color: #fff;
     font-weight: 600;
     font-size: 1.7rem;
 }
@@ -76,7 +76,7 @@ header {
 }
 
 .navbar .links a {
-    color: #015798;
+    color: #fff;
     font-size: 1.1rem;
     font-weight: 500;
     text-decoration: none;
@@ -90,8 +90,8 @@ header {
 .navbar .login-btn {
     border: none;
     outline: none;
-    background: #015798;
-    color: #fff;
+    background: #fff;
+    color: black;
     font-size: 1rem;
     font-weight: 600;
     padding: 10px 18px;
