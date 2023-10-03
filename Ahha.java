@@ -1,4 +1,4 @@
-public class Lyrics {
+public class Ahha {
     public static void main(String[] args) {
         String[] lyrics = {
                 " ",
